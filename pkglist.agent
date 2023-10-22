@@ -1,0 +1,8 @@
+devel/git@tiny
+devel/py-jenkins-job-builder
+ftp/curl
+java/openjdk11
+lang/expect
+lang/python3
+security/sudo
+textproc/jq

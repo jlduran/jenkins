@@ -1,0 +1,9 @@
+devel/ccache4
+devel/git@tiny
+dns/bind-tools
+editors/vim
+emulators/qemu@guestagent
+ports-mgmt/poudriere-devel
+security/acme.sh
+security/sudo
+sysutils/tmux

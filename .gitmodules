@@ -1,0 +1,9 @@
+[submodule "overlaydir.nginx/usr/local/www/tinderbox/jenkins-tinderbox"]
+	path = overlaydir.nginx/usr/local/www/tinderbox/jenkins-tinderbox
+	url = https://github.com/FreeBSDFoundation/jenkins-tinderbox.git
+[submodule "overlaydir.agent/jenkins/jenkins-agent-scripts"]
+	path = overlaydir.agent/jenkins/jenkins-agent-scripts
+	url = https://github.com/lwhsu/jenkins-agent-scripts.git
+[submodule "scripts/sync-be"]
+	path = scripts/sync-be
+	url = https://github.com/KlaraSystems/sync-be.git
